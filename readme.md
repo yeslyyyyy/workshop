@@ -1,3 +1,3 @@
 #Git/Github workshop
 Smriti Adhikari
-Fault in our Stars
+Fault in our stars
